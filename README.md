@@ -1,7 +1,6 @@
 # app-dev
 My first repository
 
-**My Favorite Anime**
 # Vanitas no Karte (The Case Study of Vanitas)
 ![image](https://github.com/JohnBontogon/app-dev/assets/133963409/d61a9e78-1b8a-4f35-bb07-f9b4176a7455)
 
